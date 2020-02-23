@@ -1,6 +1,6 @@
  
    body,html {
-    margin: 0;
+    margin: 16px;
     font-family: sans-serif;
               }
   
@@ -10,15 +10,15 @@
   }
   
   li {
-    display: inline;
+    display:inline;
   }
   
   a {
     outline: none;
     text-decoration: none;
     display: inline-block;
-    width: 19.5%;
-    margin-right: 0.625%;
+    width: 350px;
+    margin-right: 32px;
     text-align: center;
     line-height: 3;
     color: black;
@@ -48,7 +48,7 @@
   }
 
   
-  h1{
+  h1,h2{
     float: inline-start;
     color:yellowgreen;
     text-align: center;
