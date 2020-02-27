@@ -73,12 +73,23 @@
     text-align: center;
 
   }
+  p {
+    text-align: justify;
+    font-size: 32px;
+    text-size-adjust:auto;
   
+  }
   
   #float-left{
     float: left;
     border-radius: 200px;
-    margin:0,16,16,0;
+    margin: 8px;
+    border:auto;
+    padding:12px;
+
+    
+
+    
     
   }
   
